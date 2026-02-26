@@ -108,10 +108,3 @@ Balanced Logistic Regression performed best in identifying employees likely to l
 The model and insights can help organizations proactively reduce employee attrition and improve retention strategies.
 
 ---
-
-Do you want me to:
-
-* Draft your LinkedIn post?
-* Or help you script your demo video?
-
-Let’s finish this like pros 😌🔥
